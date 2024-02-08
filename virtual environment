@@ -8,5 +8,4 @@ Om te activeren:
 
 Om packages te installeren (bv pandas) in de virtual environment:
     python3 -m pip install pandas
-of wanneer dit problemen geeft evt met pipx ipv pip3
-   python -m pip install <package-name>
+
