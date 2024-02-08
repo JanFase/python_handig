@@ -1,0 +1,6 @@
+#tkinter
+
+do 8 feb 2024
+Kon alleen installeren op linux chrombook middels:
+    sudo apt install python3.11-tk
+
