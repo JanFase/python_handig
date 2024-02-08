@@ -1,7 +1,12 @@
 Linux:
 
-Om een virtal environment aan te maken:
-     python3 -m venv_jf venv_jf
+Om een virtal environment venv_jf aan te maken:
+     python3 -m venv venv_jf
 
 Om te activeren:
     source venv_jf/bin/activate
+
+Om packages te installeren (bv pandas) in de virtual environment:
+    python3 -m pip install pandas
+of wanneer dit problemen geeft evt met pipx ipv pip3
+   python -m pip install <package-name>
