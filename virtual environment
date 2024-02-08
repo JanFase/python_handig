@@ -1,0 +1,7 @@
+Linux:
+
+Om een virtal environment aan te maken:
+     python3 -m venv_jf venv_jf
+
+Om te activeren:
+    source venv_jf/bin/activate
